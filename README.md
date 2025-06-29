@@ -18,7 +18,7 @@ A backend system for intelligent **profile recommendations** and **dining group 
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/DEVESH1709/Algorithm-Design.git
-cd Algorithm-Design.git
+cd Algorithm-Design
 ````
 
 ### 2. Install Dependencies
